@@ -8,11 +8,10 @@
           <include name="afterClass"/>
           <include name="beforeClass"/>
           <include name="beforeMethod"/>
-          <include name="TruckSales"/>
           <include name="afterSuite"/>
-          <include name="afterMethod"/>
           <include name="beforeTest"/>
-          <include name="login"/>
+          <include name="afterMethod"/>
+          <include name="WarrantyManagement"/>
           <include name="afterTest"/>
           <include name="beforeSuite"/>
         </methods>
